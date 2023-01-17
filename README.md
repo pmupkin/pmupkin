@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I usually use Java, Python.
+- ⚡ I participated in OSPP 2022,I will continue to participate in open source activities.
 - 😄 Love middleware and cloud native development. Keep coding...
 - 🔭 I’m currently participating in the contribution of Dubbo, SofaStack.
 
